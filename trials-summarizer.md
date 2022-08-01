@@ -1,4 +1,5 @@
 ## Automatically Summarizing Evidence from Clinical Trials: A Prototype Highlighting Current Challenges 
+[Sanjana Ramprasad, Denis Jered McInerney, Byron Wallace]
 
 ### Overview 
 We present TrialsSummarizer, a prototype for summarizing reports of randomized controlled trials of medical interventions, which are the gold standard for evidence-based care.  Realizing the aim of evidence-based care has become increasingly difficult owing to the rapid growth of medical literature. The use of summarization methods to provide concise overviews of all evidence relevant to a clinical question can be used to alleviate this difficulty.
