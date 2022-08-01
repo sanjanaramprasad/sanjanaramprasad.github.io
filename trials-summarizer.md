@@ -11,9 +11,13 @@ However current neural summarization methods are prone to factual errors renderi
 
 ### Interfaces
 We consider two implementations of the summarization module
-1) A vanilla interface based on seq2seq bart model can be found [here](http://ec2-54-167-81-67.compute-1.amazonaws.com:8080/)
+1) A vanilla interface based on seq2seq bart model can be found [here](http://ec2-54-167-81-67.compute-1.amazonaws.com:8080/) \
 2) An exploratory interface based on our proposed model providing transperancy and controllability can be found [here](http://ec2-54-209-251-153.compute-1.amazonaws.com:8080/)
 
+#### Example Queries
+1) What is the effect of clopidogrel on mortality rate in patients with acute myocardial infarction?
+   For the vanilla interface [here](http://ec2-54-167-81-67.compute-1.amazonaws.com:8080/?q=~%28~%28field~%27population~text~%27Acute%2a20myocardial%2a20infarction%2a20%2a5bpopulation%2a5d~cui~%27C0155626%29~%28field~%27interventions~text~%27clopidogrel%2a20%2a5binterventions%2a5d~cui~%27C0070166%29~%28field~%27outcomes~text~%27Mortality%2a20rate%2a20%2a5boutcomes%2a5d~cui~%27C0026565%29%29) 
+   For the exploratory interface [here](http://ec2-54-209-251-153.compute-1.amazonaws.com:8080/?q=~%28~%28field~%27population~text~%27Acute%2a20myocardial%2a20infarction%2a20%2a5bpopulation%2a5d~cui~%27C0155626%29~%28field~%27interventions~text~%27clopidogrel%2a20%2a5binterventions%2a5d~cui~%27C0070166%29~%28field~%27outcomes~text~%27Mortality%2a20rate%2a20%2a5boutcomes%2a5d~cui~%27C0026565%29%29)
 
 ### Links to both interface
 
