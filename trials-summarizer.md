@@ -9,7 +9,10 @@ However current neural summarization methods are prone to factual errors renderi
 <div style="padding:62.57% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/735508942?h=1b3b4f503e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Automatically Summarizing Evidence from Clinical Trials"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-### Example Queries to try on each of the interface
+### Interfaces
+We consider two implementations of the summarization module
+1) A vanilla interface based on seq2seq bart model can be found [here](http://ec2-54-167-81-67.compute-1.amazonaws.com:8080/)
+2) An exploratory interface based on our proposed model providing transperancy and controllability can be found [here](http://ec2-54-209-251-153.compute-1.amazonaws.com:8080/)
 
 
 ### Links to both interface
