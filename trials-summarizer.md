@@ -2,7 +2,8 @@
 [Sanjana Ramprasad](https://www.khoury.northeastern.edu/people/sanjana-ramprasad/), [Denis Jered McInerney](https://www.khoury.northeastern.edu/people/denis-jered-mcinerney/), [Byron Wallace](https://www.byronwallace.com/)
 
 ### Overview 
-We present TrialsSummarizer, a prototype for summarizing reports of randomized controlled trials of medical interventions, which are the gold standard for evidence-based care.  Realizing the aim of evidence-based care has become increasingly difficult owing to the rapid growth of medical literature. The use of summarization methods to provide concise overviews of all evidence relevant to a clinical question can be used to alleviate this difficulty.
+We present TrialsSummarizer, a prototype for summarizing reports of randomized controlled trials of medical interventions, which are the gold standard for evidence-based care.  This is work builds on prior work <cite>[Ian Marshall][1]</cite> \
+Realizing the aim of evidence-based care has become increasingly difficult owing to the rapid growth of medical literature. The use of summarization methods to provide concise overviews of all evidence relevant to a clinical question can be used to alleviate this difficulty.
 However current neural summarization methods are prone to factual errors rendering them of little use in generating summaries of comparative treatment efficacy. Improving the factuality of neural summarization methods is unlikely to be solved in the near future. In the interim, we present TrialsSummarizer an interactive tool that allows users the means to to assess the validity of outputs. We also provide some degree of controllability that gives users the opportunity to obtain corrected versions of summaries in real time.
 
 ### Demonstration
@@ -10,7 +11,7 @@ However current neural summarization methods are prone to factual errors renderi
 
 
 ### Interfaces
-#####We consider two implementations of the summarization module \
+##### We consider two implementations of the summarization module \
 1) A vanilla interface based on seq2seq bart model can be found [here](http://ec2-54-167-81-67.compute-1.amazonaws.com:8080/) \
 2) An exploratory interface based on our proposed model providing transperancy and controllability can be found [here](http://ec2-54-209-251-153.compute-1.amazonaws.com:8080/)
 
@@ -22,6 +23,8 @@ However current neural summarization methods are prone to factual errors renderi
 
 ## Source Code 
 
+
+[1]: Marshall, Iain J., et al. "Trialstreamer: A living, automatically updated database of clinical trial reports." Journal of the American Medical Informatics Association 27.12 (2020): 1903-1912.
 <!-- You can use the [editor on GitHub](https://github.com/sanjanaramprasad/sanjanaramprasad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
