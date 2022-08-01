@@ -1,7 +1,8 @@
 ## Automatically Summarizing Evidence from Clinical Trials: A Prototype Highlighting Current Challenges 
 
 ### Overview 
-
+We present TrialsSummarizer, a prototype for summarizing reports of randomized controlled trials of medical interventions, which are the gold standard for evidence-based care.  Realizing the aim of evidence-based care has become increasingly difficult owing to the rapid growth of medical literature. The use of summarization methods to provide concise overviews of all evidence relevant to a clinical question can be used to alleviate this difficulty.
+However current neural summarization methods are prone to factual errors rendering them of little use in generating summaries of comparative treatment efficacy. Improving the factuality of neural summarization methods is unlikely to be solved in the near future. In the interim, we present TrialsSummarizer an interactive tool that allows users the means to to assess the validity of outputs. We also provide some degree of controllability that gives users the opportunity to obtain corrected versions of summaries in real time.
 
 ### Demonstration
 <div style="padding:62.57% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/735508942?h=1b3b4f503e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Automatically Summarizing Evidence from Clinical Trials"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -11,6 +12,8 @@
 
 
 ### Links to both interface
+
+## Source Code 
 
 <!-- You can use the [editor on GitHub](https://github.com/sanjanaramprasad/sanjanaramprasad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
