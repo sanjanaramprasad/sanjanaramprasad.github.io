@@ -1,4 +1,4 @@
-## Automatically Summarizing Evidence from Clinical Trials: \\ A Prototype Highlighting Current Challenges 
+## Automatically Summarizing Evidence from Clinical Trials: A Prototype Highlighting Current Challenges 
 
 ### Overview 
 
