@@ -7,7 +7,7 @@ Realizing the aim of evidence-based care has become increasingly difficult owing
 However current neural summarization methods are prone to factual errors rendering them of little use in generating summaries of comparative treatment efficacy. Improving the factuality of neural summarization methods is unlikely to be solved in the near future. In the interim, we present TrialsSummarizer an interactive tool that allows users the means to to assess the validity of outputs. We also provide some degree of controllability that gives users the opportunity to obtain corrected versions of summaries in real time.
 
 ### Demonstration
-<div style="padding:62.57% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/735508942?h=1b3b4f503e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Automatically Summarizing Evidence from Clinical Trials"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/735605060?h=05e122b091" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ### Interfaces
