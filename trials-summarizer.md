@@ -11,12 +11,12 @@ However current neural summarization methods are prone to factual errors renderi
 
 
 ### Interfaces
-##### We consider two implementations of the summarization module \
+ We consider two implementations of the summarization module \
 1) A vanilla interface based on seq2seq bart model can be found [here](http://ec2-54-167-81-67.compute-1.amazonaws.com:8080/) \
 2) An exploratory interface based on our proposed model providing transperancy and controllability can be found [here](http://ec2-54-209-251-153.compute-1.amazonaws.com:8080/)
 
 #### Example Queries
-###### What is the effect of clopidogrel on mortality rate in patients with acute myocardial infarction?\
+#### What is the effect of clopidogrel on mortality rate in patients with acute myocardial infarction? \
   [View result on the vanilla interface](http://ec2-54-167-81-67.compute-1.amazonaws.com:8080/?q=~%28~%28field~%27population~text~%27Acute%2a20myocardial%2a20infarction%2a20%2a5bpopulation%2a5d~cui~%27C0155626%29~%28field~%27interventions~text~%27clopidogrel%2a20%2a5binterventions%2a5d~cui~%27C0070166%29~%28field~%27outcomes~text~%27Mortality%2a20rate%2a20%2a5boutcomes%2a5d~cui~%27C0026565%29%29) \
   [View result on the exploratory interface](http://ec2-54-209-251-153.compute-1.amazonaws.com:8080/?q=~%28~%28field~%27population~text~%27Acute%2a20myocardial%2a20infarction%2a20%2a5bpopulation%2a5d~cui~%27C0155626%29~%28field~%27interventions~text~%27clopidogrel%2a20%2a5binterventions%2a5d~cui~%27C0070166%29~%28field~%27outcomes~text~%27Mortality%2a20rate%2a20%2a5boutcomes%2a5d~cui~%27C0026565%29%29)
 
@@ -25,35 +25,3 @@ However current neural summarization methods are prone to factual errors renderi
 
 
 [1]: Marshall, Iain J., et al. "Trialstreamer: A living, automatically updated database of clinical trial reports." Journal of the American Medical Informatics Association 27.12 (2020): 1903-1912.
-<!-- You can use the [editor on GitHub](https://github.com/sanjanaramprasad/sanjanaramprasad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanjanaramprasad/sanjanaramprasad.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
-
