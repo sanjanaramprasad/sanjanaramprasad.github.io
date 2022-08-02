@@ -11,7 +11,7 @@ However current neural summarization methods are prone to factual errors renderi
 
 
 ### Interfaces
- We consider two implementations of the summarization module \
+ We consider two implementations of the summarization module </br>
 1) A vanilla interface based on seq2seq bart model can be found [here](http://ec2-54-167-81-67.compute-1.amazonaws.com:8080/) \
 2) An exploratory interface based on our proposed model providing transperancy and controllability can be found [here](http://ec2-54-209-251-153.compute-1.amazonaws.com:8080/)
 
