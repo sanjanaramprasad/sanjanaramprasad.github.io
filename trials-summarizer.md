@@ -2,7 +2,7 @@
 [Sanjana Ramprasad](https://www.khoury.northeastern.edu/people/sanjana-ramprasad/), [Denis Jered McInerney](https://www.khoury.northeastern.edu/people/denis-jered-mcinerney/), [Iain Marshall](https://kclpure.kcl.ac.uk/portal/iain.marshall.html), [Byron Wallace](https://www.byronwallace.com/)
 
 ### Overview 
-We present TrialsSummarizer, a prototype for summarizing reports of randomized controlled trials of medical interventions, which are the gold standard for evidence-based care.  This is work builds on prior work Ian Marshall[^1].
+We present TrialsSummarizer, a prototype for summarizing reports of randomized controlled trials of medical interventions, which are the gold standard for evidence-based care.  This is work builds on prior work by Ian Marshall[^1].
 
 Realizing the aim of evidence-based care has become increasingly difficult owing to the rapid growth of medical literature. The use of summarization methods to provide concise overviews of all evidence relevant to a clinical question can be used to alleviate this difficulty.
 
@@ -10,7 +10,6 @@ However current neural summarization methods are prone to factual errors renderi
 
 ### Demonstration
 <iframe src="https://player.vimeo.com/video/735605060?h=05e122b091" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 
 ### Interfaces
  We consider two implementations of the summarization module
