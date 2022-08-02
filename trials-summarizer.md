@@ -26,7 +26,7 @@ However current neural summarization methods are prone to factual errors renderi
 
 
 ### Source Code 
-https://github.com/sanjanaramprasad/RRnlp 
+https://github.com/sanjanaramprasad/RRnlp \ 
 https://github.com/sanjanaramprasad/trialstreamer-demo
 
 ### References 
