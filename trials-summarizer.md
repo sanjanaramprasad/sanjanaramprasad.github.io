@@ -31,7 +31,7 @@ However, current neural summarization methods are prone to factual errors render
 ### Source Code 
 [https://github.com/sanjanaramprasad/RRnlp](https://github.com/sanjanaramprasad/RRnlp)
 
-[https://github.com/sanjanaramprasad/RRnlp](https://github.com/sanjanaramprasad/trialstreamer-demo)
+[https://github.com/sanjanaramprasad/trialstreamer-demo](https://github.com/sanjanaramprasad/trialstreamer-demo)
 
 ### References 
 [^1]: Marshall, Iain J., et al. "Trialstreamer: A living, automatically updated database of clinical trial reports." Journal of the American Medical Informatics Association 27.12 (2020): 1903-1912.
