@@ -1,5 +1,5 @@
 ## Automatically Summarizing Evidence from Clinical Trials: A Prototype Highlighting Current Challenges 
-[Sanjana Ramprasad](https://www.khoury.northeastern.edu/people/sanjana-ramprasad/), [Denis Jered McInerney](https://www.khoury.northeastern.edu/people/denis-jered-mcinerney/), [Byron Wallace](https://www.byronwallace.com/)
+[Sanjana Ramprasad](https://www.khoury.northeastern.edu/people/sanjana-ramprasad/), [Denis Jered McInerney](https://www.khoury.northeastern.edu/people/denis-jered-mcinerney/), [Iain Marshall](https://kclpure.kcl.ac.uk/portal/iain.marshall.html), [Byron Wallace](https://www.byronwallace.com/)
 
 ### Overview 
 We present TrialsSummarizer, a prototype for summarizing reports of randomized controlled trials of medical interventions, which are the gold standard for evidence-based care.  This is work builds on prior work Ian Marshall[^1].
